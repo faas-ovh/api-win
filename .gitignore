@@ -1,0 +1,11 @@
+/.idea/
+/env/
+/src/
+/python/
+/python3env/
+/pip/
+/nginx/
+/uvicorn/
+/win/
+/debian/
+/promagen/

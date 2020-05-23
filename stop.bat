@@ -1,0 +1,1 @@
+uvicorn\stop.bat
