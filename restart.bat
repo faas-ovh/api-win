@@ -1,4 +1,4 @@
-python3env\reload.bat & api/start.bat
+python3env\reload.bat & cd src & start.bat & cd ..
 
 ::uvicorn.start.bat
 ::gunicorn.stop.bat
